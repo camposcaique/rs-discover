@@ -4,7 +4,7 @@
 
 >Projeto do curso ministrado pela Rocket Seat.
 
-[Clique aqui para acessar](https://camposcaique.github.io/darkcake2.0/)
+[Clique aqui para acessar](https://camposcaique.github.io/rs-discover)
 
 ## 🔨 Tecnologias
 
